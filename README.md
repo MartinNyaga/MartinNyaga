@@ -3,7 +3,7 @@
 
 
 
-- I’m currently learning **Node.js, Angular, Django, Mongo db**
+- I’m currently learning **Django, Mongo db**
 
 
 
