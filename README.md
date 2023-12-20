@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Nairobi, Kenya</h3>
 
 
-
+<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/>
 - I’m currently learning **Django, Mongo db**
 
 
