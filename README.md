@@ -3,7 +3,7 @@
 
 
 <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="100"/>
-- I’m currently learning **Django, Mongo db**
+- I’m currently learning **C #**
 
 
 
